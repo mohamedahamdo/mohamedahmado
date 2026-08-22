@@ -1,4 +1,4 @@
-## 👋 Hello, I'm [Your Name]!
+## 👋 Hello, I'm [Mohamed Ahmado]
 
 I am a Software Developer and DevOps enthusiast currently studying at the **Computer Institute (Software Department) at the University of Aleppo**. I love building applications, managing servers, and learning new technologies. 
 
